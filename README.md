@@ -15,7 +15,6 @@
 - :technologist: I love using Software as a solution for every issue I may encounter.
 - :student: I’m currently learning `Computer Science`, `Software Engineering` and `Web Development`.
 - :nerd_face: Always `learning new tricks`.
-- :thinking: I’m currently open for a new `job opportunity` for a `6 months internship` , there is my [CV](http://lnkiy.in/Y2xsF).
 <br>
 
 
